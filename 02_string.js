@@ -27,3 +27,4 @@ console.log(name.length);
 let newString = "Jharkhand";
 console.log(newString.slice(0,4));  //jhar
 console.log(newString); 
+
